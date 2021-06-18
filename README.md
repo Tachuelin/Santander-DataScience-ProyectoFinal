@@ -46,4 +46,3 @@ _Este proyecto fue realizado por el equipo 11 del programa Santander-DataScience
 **Equipo 11:**
 - **Oscar Cañongo** - \*\* - [OscarCanongo](https://github.com/OscarCanongo)
 - **Daniel Arellano** - \*\* - [Tachuelin](https://github.com/Tachuelin)
-- **Miguel Toledo** - \*\* -[josemigueltr](https://github.com/josemigueltr)
