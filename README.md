@@ -1,4 +1,4 @@
 # Equipo 11 Proyecto Final
-## Modulo de Machine Learning
+## Modulo de Machine Learning 🚀
 
-## Sistemas de recomendaciones
+## Sistemas de recomendaciones 📋
