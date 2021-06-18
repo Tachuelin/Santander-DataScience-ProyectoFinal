@@ -41,7 +41,7 @@ _Con todo lo anterior contemplado, se puede correr el Código y observar el aná
 
 ## Autores ✒️
 
-_Este proyecto fue realizado por el equipo 24 del programa Santander-DataScience, cuyos integrantes son:_
+_Este proyecto fue realizado por el equipo 11 del programa Santander-DataScience, cuyos integrantes son:_
 
 **Equipo 11:**
 - **Oscar Cañongo** - \*\* - [OscarCanongo](https://github.com/OscarCanongo)
