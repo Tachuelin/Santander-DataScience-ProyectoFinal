@@ -29,12 +29,12 @@ _Las librerías son las siguientes:_
 ```python
 #Cargar las librerias
 import pandas as pd
-import requests
-import matplotlib.pyplot as plt
-from scipy import stats
 import numpy as np
-import seaborn as sns
-from datetime import datetime
+from sklearn.metrics import mean_squared_error
+from sklearn.model_selection import train_test_split
+from sklearn.neighbors import NearestNeighbors
+import matplotlib.pyplot as plt
+import sklearn
 ```
 
 _Con todo lo anterior contemplado, se puede correr el Código y observar el análisis del proyecto._
