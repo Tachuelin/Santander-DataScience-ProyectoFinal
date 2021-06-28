@@ -11,7 +11,7 @@ _Puedes descargar el repositorio y consultar el Código en lenguaje de programac
 
 - Dando clic en **Code** en el repositorio y después **Download ZIP**..
 - Haciendo un **Git clone** del repositorio directamente en tu computadora
-- Ingresando a Google Colab [Proyecto Final](https://colab.research.google.com/drive/1OO_QE2TX8ylokhQITZ8x-l8gUwbgwBAY?usp=sharing)
+- Ingresando a Google Colab [Proyecto Final](https://colab.research.google.com/drive/1lexfeyDqg7DZj2CV5-mo5bB8yu4agsZ8?usp=sharing)
 
 ### Prerrequisitos 📋
 
